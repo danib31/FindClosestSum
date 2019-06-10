@@ -1,0 +1,12 @@
+Candy Bar, 500
+Something, 600
+Paperback Book, 700
+Test, 900
+Detergent, 1000
+Basketball, 1100
+Football, 1200
+Tennis, 1300 
+Headphones, 1400
+Earmuffs, 2000
+Smiley, 4000
+Bluetooth Stereo, 6000

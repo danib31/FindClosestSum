@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FindClosestSum:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FindClosestSum_jar</output-path>
+    <root id="archive" name="FindClosestSum.jar">
+      <element id="module-output" name="FindClosestSum" />
+    </root>
+  </artifact>
+</component>
